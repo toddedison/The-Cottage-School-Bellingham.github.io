@@ -1,19 +1,20 @@
 /*----------generic styles-----*/
 
-  .video {
-  	width: 775px;
-  	height: 175px;
-  	text-align: center;
-  	position: absolute;
-  	overflow: hidden;
-  }
+.video {
+	width: 775px;
+	height: 175px;
+	text-align: center;
+	position: absolute;
+	overflow: hidden;
+}
 
-  .video-text {
-  	font-weight: bold;
-  	color: white;
-  	position: relative;
-  	text-align: center;
-  }
+.video-text {
+	font-weight: bold;
+	color: white;
+	position: relative;
+	text-align: center;
+  padding: 20px;
+}
 
   body {
   	margin:0px 0px;
