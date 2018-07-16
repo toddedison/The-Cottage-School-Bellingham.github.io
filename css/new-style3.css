@@ -9,6 +9,14 @@
   opacity: 0.7;
 }
 
+.video-text-header {
+  font-weight: bold;
+	color: white;
+	position: relative;
+	text-align: Left;
+  padding: 20px;
+}
+
 .video-text {
 	font-weight: bold;
 	color: white;
