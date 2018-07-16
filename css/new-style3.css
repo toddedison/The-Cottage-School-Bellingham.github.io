@@ -14,31 +14,28 @@
 	position: relative;
 	text-align: center;
   padding: 20px;
+  margin-bottom: 63px;
 }
 
-  body {
-  	margin:0px 0px;
-	padding:0px;
-	text-align:center;
-	background-color: fdf79c;
+body {
+	margin:0px 0px;
+  padding:0px;
+  text-align:center;
+  background-color: fdf79c;
+}
 
-
-  }
-
-  a {
-	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, "Verdana 	Ref", sans-serif;
- 	text-decoration: none;
-	color: #048d8d;
-	size; 14px;
+a {
+  font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, "Verdana 	Ref", sans-serif;
+  	text-decoration: none;
+  color: #048d8d;
+  size; 14px;
 
 }
 
-  a img {
-	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, "Verdana Ref", sans-serif;
+a img {
+  font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, "Verdana Ref", sans-serif;
   border: 0;
-   }
-
-
+ }
 
 #container {
 	border: 4px solid #66cc33;
@@ -49,7 +46,6 @@
 	padding: 0;
 	height:auto;
 }
-
 
 #head {
 	margin: 0;
@@ -78,18 +74,11 @@ h1 {
 	width: 550px;
 }
 
-
 h2 {
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", 		"Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 	font-size:24px;
 	color: #048d8d;
-
 }
-
-
-
-
-
 
 h3 {
 
@@ -97,10 +86,6 @@ h3 {
 	font-size:24px;
 	color: #048d8d;
 	text-decoration: underline;
-
-
-
-
 }
 
 h4 {
@@ -123,16 +108,13 @@ h5 {
 }
 
 #address ul{
-
 	background-color:#69ca5a;
-
 	color: #ffffff;
 	text-align: center;
 	width:  775px;
 	margin:0;
 	padding: 5px 0 5px 0;
-
-		}
+}
 
 #address li {
 	display: inline;
@@ -141,23 +123,18 @@ h5 {
 	margin: 0;
 	padding: 0.7em;
 	color: #fff;
-
 }
 
 #address a {
 	color: #fff;
 	font-size: 14px;
 	margin: 0;
-
 }
 
-
 #mainbox ul{
-
 	margin: 0;
 	list-style: disc;
 }
-
 
 #mainbox li {
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, "Verdana Ref", sans-serif;
@@ -167,19 +144,12 @@ h5 {
 	line-height: 16pt;
 }
 
-
-
   p {
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, "Verdana Ref", sans-serif;
 	font-size: .95em;
 	font-weight: 500;
 	color: #8e4e37;
 	line-height: 16pt;
-
-
-
-
-
 }
 
 .small {
@@ -189,111 +159,70 @@ h5 {
 	color: #048d8d;
 }
 
-
-
 /*----------------image styles----*/
 
 .art{
-
 	float: right;
 	margin: 1em;
 	padding: .2em;
-
-
-	}
-
+}
 
 .name{
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", 		"Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 	text-align: right;
 	color: 048d8d;
-
 }
 
 .letter{
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", 		"Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 	text-align: left;
 	color: 000000;
-
-
 }
 
 #cal{
-
-
-	position: absolute;
+  position: absolute;
 	left: 470px;
 	top: 320px;
-
-
-
 	}
-
 
 /*--------------- nav styles ----*/
 
-
 #navlinks ul {
-
-
 	padding-left: 8px;
 	margin: 0;
-
-
-	}
-
-
-
+}
 
 #navlinks li {
-
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",  Verdana, "Verdana Ref", sans-serif;
 	list-style: none;
 	text-align: left;
-
-
-
 }
-
-
 
 #navlinks a {
 	color: #fff;
 	font-size: 18px;
 	font-weight: 600;
-
-
 }
-
 
 #navlinks a:hover {
 	color: #fdf79c;
 }
 
-
 #navlinks a:visited {
 	color: #e3f2ef;
 }
 
-
-
 /*--------------- footer styles ----*/
 #footer p{
-
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", 		"Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 	font-size: x-small;
 	text-decoration: none;
 	color: #048d8d;
 }
 
-
 #footer {
 	clear: both;
-
 }
-
-
-
 
 #footer li {
 	display:inline;
