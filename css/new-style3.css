@@ -2,20 +2,20 @@
 
 
   body {
-  	margin:0px 0px; 
+  	margin:0px 0px;
 	padding:0px;
 	text-align:center;
-	background-color: fdf79c; 
-	
-  	
+	background-color: fdf79c;
+
+
   }
-  
+
   a {
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, "Verdana 	Ref", sans-serif;
  	text-decoration: none;
 	color: #048d8d;
 	size; 14px;
-	
+
 }
 
   a img {
@@ -60,15 +60,15 @@ h1 {
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",  Verdana, "Verdana Ref", sans-serif;
 	font-size: 20px;
 	color: #048d8d;
-	width: 550px;	
+	width: 550px;
 }
 
 
 h2 {
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", 		"Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 	font-size:24px;
-	color: #048d8d;	
-	
+	color: #048d8d;
+
 }
 
 
@@ -77,15 +77,15 @@ h2 {
 
 
 h3 {
-	
+
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",  Verdana, "Verdana Ref", sans-serif;
 	font-size:24px;
 	color: #048d8d;
 	text-decoration: underline;
-	
-	
-	
-	
+
+
+
+
 }
 
 h4 {
@@ -108,11 +108,11 @@ h5 {
 }
 
 #address ul{
- 
+
 	background-color:#69ca5a;
-	
+
 	color: #ffffff;
-	text-align: right;
+	text-align: center;
 	width:  775px;
 	margin:0;
 	padding: 5px 0 5px 0;
@@ -125,20 +125,20 @@ h5 {
 	list-style: none;
 	margin: 0;
 	padding: 0.7em;
-	color: #fff;	
-  
+	color: #fff;
+
 }
 
 #address a {
 	color: #fff;
 	font-size: 14px;
 	margin: 0;
-	
+
 }
 
 
 #mainbox ul{
-	
+
 	margin: 0;
 	list-style: disc;
 }
@@ -153,18 +153,18 @@ h5 {
 }
 
 
-   
+
   p {
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, "Verdana Ref", sans-serif;
 	font-size: .95em;
 	font-weight: 500;
 	color: #8e4e37;
 	line-height: 16pt;
-	
-	
-        
-		
-	
+
+
+
+
+
 }
 
 .small {
@@ -183,8 +183,8 @@ h5 {
 	float: right;
 	margin: 1em;
 	padding: .2em;
-		
-	
+
+
 	}
 
 
@@ -199,19 +199,19 @@ h5 {
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", 		"Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 	text-align: left;
 	color: 000000;
-	
+
 
 }
 
 #cal{
 
-	
+
 	position: absolute;
 	left: 470px;
 	top: 320px;
-	
-		
-	
+
+
+
 	}
 
 
@@ -219,25 +219,25 @@ h5 {
 
 
 #navlinks ul {
-	
+
 
 	padding-left: 8px;
 	margin: 0;
-	
-	
+
+
 	}
 
 
 
 
 #navlinks li {
-	
+
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",  Verdana, "Verdana Ref", sans-serif;
 	list-style: none;
 	text-align: left;
-	
-	
-	
+
+
+
 }
 
 
@@ -246,8 +246,8 @@ h5 {
 	color: #fff;
 	font-size: 18px;
 	font-weight: 600;
-		
-	
+
+
 }
 
 
@@ -264,7 +264,7 @@ h5 {
 
 /*--------------- footer styles ----*/
 #footer p{
-	
+
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", 		"Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 	font-size: x-small;
 	text-decoration: none;
@@ -274,7 +274,7 @@ h5 {
 
 #footer {
 	clear: both;
-	
+
 }
 
 
@@ -288,12 +288,12 @@ h5 {
 }
 
 #footer a:link {
-	color: #048d8d;	
+	color: #048d8d;
 	font-size: x-small;
 }
 
-#footer a:hover {	
-	color: #69ca5a;	
+#footer a:hover {
+	color: #69ca5a;
 	font-size: x-small;
 }
 #footer a:visited {
