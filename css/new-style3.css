@@ -58,6 +58,7 @@ a img {
 
 #head {
 	margin: 0;
+	background-color: yellow !important;
 }
 
 #mainbox {
