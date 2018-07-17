@@ -235,6 +235,7 @@ h5 {
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",  Verdana, "Verdana Ref", sans-serif;
 	list-style: none;
 	text-align: left;
+	display: inline;
 }
 
 #navlinks2 a {
