@@ -114,7 +114,6 @@ h5 {
 #address ul {
 	color: #fff;
 	text-align: center;
-	width:  775px;
 	margin:0;
 	padding: 5px 0 5px 0;
 }
@@ -131,13 +130,6 @@ h5 {
 	color: #fff;
 	font-size: 14px;
 	margin: 0;
-}
-
-.footer2 {
-	width: 755px;
-	background-color: blue;
-	height: 59px;
-	color: white;
 }
 
 #mainbox ul{
