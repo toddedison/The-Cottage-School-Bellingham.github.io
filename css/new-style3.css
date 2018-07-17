@@ -272,6 +272,14 @@ h5 {
 	list-style: none;
 }
 
+#footer2 a {
+	color: white;
+}
+
+#footer2 a:hover {
+	opacity: 0.7;
+}
+
 #footer2 li {
 	display:inline;
 	list-style: none;
