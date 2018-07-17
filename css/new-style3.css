@@ -199,14 +199,17 @@ h5 {
 /*--------------- nav styles ----*/
 
 #navlinks ul {
-	padding-left: 8px;
 	margin: 0;
+	text-align: center;
+	padding: 10px;
 }
 
 #navlinks li {
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",  Verdana, "Verdana Ref", sans-serif;
 	list-style: none;
 	text-align: left;
+	display: inline;
+	padding: 0.7em;
 }
 
 #navlinks a {
