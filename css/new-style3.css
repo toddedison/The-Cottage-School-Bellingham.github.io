@@ -136,6 +136,10 @@ h5 {
 	color: #fff;
 }
 
+.small-border li {
+	font-size: 10px;
+}
+
 #address a {
 	color: #fff;
 	font-size: 14px;
