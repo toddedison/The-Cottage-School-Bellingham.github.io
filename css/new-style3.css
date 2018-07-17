@@ -133,6 +133,13 @@ h5 {
 	margin: 0;
 }
 
+.footer2 {
+	width: 755px;
+	background-color: blue;
+	height: 59px;
+	color: white;
+}
+
 #mainbox ul{
 	margin: 0;
 	list-style: disc;
@@ -194,7 +201,7 @@ h5 {
 	width: 128px;
 	padding-top: 50px;
 	}
-	
+
 #navlinks ul {
 	padding-left: 8px;
 	margin: 0;
