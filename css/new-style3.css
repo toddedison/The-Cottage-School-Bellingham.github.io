@@ -227,7 +227,7 @@ h5 {
 #navlinks2 ul {
 	padding: 8px;
 	margin: 0;
-	padding: 10px;
+	padding: 13px;
 	text-align: center;
 	background: linear-gradient(#04591c, #06a40d);
 	width: 755px;
@@ -238,11 +238,12 @@ h5 {
 	list-style: none;
 	display: inline;
 	padding: 10px;
+	text-shadow: -1px -1px 1px #002c53;
 }
 
 #navlinks2 a {
 	color: #fff;
-	font-size: 12px;
+	font-size: 1em;
 	font-weight: 600;
 }
 
