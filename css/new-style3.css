@@ -228,8 +228,8 @@ h5 {
 	margin: 0;
 	padding: 10px;
 	text-align: center;
-	background-color: green;
-	width: 100%;
+	background: linear-gradient(#04591c, #06a40d);
+	width: 755px;
 }
 
 #navlinks2 li {
@@ -250,9 +250,6 @@ h5 {
 	opacity: .7;
 }
 
-#navlinks2 a:visited {
-	color: blue;
-}
 
 /*--------------- footer styles ----*/
 #footer p{
