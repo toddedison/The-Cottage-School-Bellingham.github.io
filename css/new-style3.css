@@ -199,8 +199,9 @@ h5 {
 /*--------------- nav styles ----*/
 
 #navlinks ul {
+	padding-left: 8px;
 	margin: 0;
-	text-align: center;
+}
 }
 
 #navlinks li {
