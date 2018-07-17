@@ -104,22 +104,27 @@ h5 {
 	color: #048d8d;
 }
 
+
 #address{
+	background-color:#69ca5a;
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Uncode", "Lucida Sans",  Verdana, "Verdana Ref", sans-serif;
 	font-size: 14px;
 	font-weight: 600;
-	color: #fff;
+	color: #ffffff;
 }
 
 #address ul {
-	color: #fff;
+	background-color:#69ca5a;
+	color: #ffffff;
 	text-align: center;
+	width:  775px;
 	margin:0;
 	padding: 5px 0 5px 0;
 }
 
 #address li {
 	display: inline;
+	/* border-right: #fff solid .1em; */
 	list-style: none;
 	margin: 0;
 	padding: 0.7em;
