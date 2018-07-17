@@ -117,16 +117,14 @@ h5 {
 }
 
 #address{
-	background-color:#69ca5a;
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Uncode", "Lucida Sans",  Verdana, "Verdana Ref", sans-serif;
 	font-size: 14px;
 	font-weight: 600;
-	color: #ffffff;
+	color: #fff;
 }
 
 #address ul {
-	background-color:#69ca5a;
-	color: #ffffff;
+	color: #fff;
 	text-align: center;
 	width:  775px;
 	margin:0;
