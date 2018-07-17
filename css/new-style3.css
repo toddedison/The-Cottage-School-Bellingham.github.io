@@ -70,12 +70,6 @@ a img {
 	padding-top: 10px;
 }
 
-#navlinks {
-	float:left;
-	width: 128px;
-	padding-top: 50px;
-	}
-
 /*--------------- content styles ----*/
 
 h1 {
@@ -195,6 +189,12 @@ h5 {
 
 /*--------------- nav styles ----*/
 
+#navlinks {
+	float:left;
+	width: 128px;
+	padding-top: 50px;
+	}
+	
 #navlinks ul {
 	padding-left: 8px;
 	margin: 0;
