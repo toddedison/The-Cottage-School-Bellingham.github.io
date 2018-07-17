@@ -223,6 +223,31 @@ h5 {
 	color: #e3f2ef;
 }
 
+#navlinks2 ul {
+	padding: 8px;
+	margin: 0;
+}
+
+#navlinks2 li {
+	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",  Verdana, "Verdana Ref", sans-serif;
+	list-style: none;
+	text-align: left;
+}
+
+#navlinks2 a {
+	color: #fff;
+	font-size: 12px;
+	font-weight: 600;
+}
+
+#navlinks2 a:hover {
+	opacity: .7;
+}
+
+#navlinks2 a:visited {
+	color: blue;
+}
+
 /*--------------- footer styles ----*/
 #footer p{
 	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", 		"Liberation Sans", Verdana, "Verdana Ref", sans-serif;
