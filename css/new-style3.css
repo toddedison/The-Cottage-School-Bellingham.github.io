@@ -257,10 +257,34 @@ h5 {
 	clear: both;
 }
 
+#footer2 {
+	clear: both;
+}
+
 #footer li {
 	display:inline;
 	list-style: none;
 	padding: 5px;
+}
+
+#footer2 ul {
+	display: inline;
+	list-style: none;
+}
+
+#footer2 li {
+	display:inline;
+	list-style: none;
+	padding: 5px;
+}
+
+#footer2 {
+	height: 30px;
+	width: 775px;
+	color: white;
+	background: linear-gradient(#04591c, #06a40d);
+	text-align: center;
+	padding-top: 15px;
 }
 
 /* #footer a:link {
