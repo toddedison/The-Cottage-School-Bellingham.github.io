@@ -129,15 +129,11 @@ h5 {
 
 #address li {
 	display: inline;
-	border-right: #fff solid .1em;
+	/* border-right: #fff solid .1em; */
 	list-style: none;
 	margin: 0;
 	padding: 0.7em;
 	color: #fff;
-}
-
-.small-border {
-	font-size: 10px !important;
 }
 
 #address a {
