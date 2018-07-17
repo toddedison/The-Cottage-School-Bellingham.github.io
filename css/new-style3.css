@@ -129,7 +129,8 @@ h5 {
 
 #address li {
 	display: inline;
-	border-right: #fff .1em dotted;
+	border-right: #fff .1em solid;
+	font-size: 10px;
 	list-style: none;
 	margin: 0;
 	padding: 0.7em;
